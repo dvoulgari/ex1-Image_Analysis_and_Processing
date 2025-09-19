@@ -2,7 +2,7 @@
 This repository contains the solutions for the first set of exercises for the Image Preprocessing and Analysis course. The solutions are provided in a Jupyter Notebook, which includes code, explanations, and visual outputs for each task.
 
 ## Repository Contents
-The repository's structure is designed to be clear and easy to navigate. The primary deliverable is the notebook, which addresses the following exercises:
+The primary deliverable is the notebook (`solutions.ipynb`), which addresses the following exercises:
 
 - **Exercise 1**: Grayscale Image Transformation. An analysis of a specific transformation function's impact on image intensity and brightness, with a practical demonstration on a chosen image.
 
