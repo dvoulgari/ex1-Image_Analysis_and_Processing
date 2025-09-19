@@ -24,5 +24,5 @@ To view and run the notebook, you will need to have Jupyter or Google Colab inst
 - Clone the Repository:
 
 ```Bash
-git clone https://github.com/
+git clone https://github.com/dvoulgari/ex1-Image_Analysis_and_Processing.git
 ```
